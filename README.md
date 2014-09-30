@@ -12,3 +12,5 @@ Citation http://pubs.acs.org/doi/abs/10.1021/pr900956x
 J Proteome Res. 2010 Feb 5;9(2):1063-75. doi: 10.1021/pr900956x.
 GlycoSpectrumScan: fishing glycopeptides from MS spectra of protease digests of human colostrum sIgA.
 Deshpande N1, Jensen PH, Packer NH, Kolarich D.
+
+Please note this repo is intended to replace https://github.com/wliu1197/glycospectrumscan and as such on rights are maintained by the original developer team.
