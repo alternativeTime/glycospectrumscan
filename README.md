@@ -6,3 +6,10 @@ GlycoSpectrumScan is a web-based bioinformatic tool designed to link glycomics a
 Updates
 
 We are busy migrating GlycoSpectrumScan to a new Java framework. Please contact the original developers and owners of the above if you would like to contribute to our efforts.
+
+Citation
+Please cite http://pubs.acs.org/doi/abs/10.1021/pr900956x
+
+J Proteome Res. 2010 Feb 5;9(2):1063-75. doi: 10.1021/pr900956x.
+GlycoSpectrumScan: fishing glycopeptides from MS spectra of protease digests of human colostrum sIgA.
+Deshpande N1, Jensen PH, Packer NH, Kolarich D.
